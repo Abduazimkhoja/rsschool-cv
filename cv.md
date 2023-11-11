@@ -50,6 +50,6 @@ const snail = (array) => {
 
 # My stats
 <div>
-   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
-   <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "47%"/>
+   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
+   <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true" width = "47%"/>
 </div>
