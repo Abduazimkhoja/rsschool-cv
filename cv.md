@@ -1,8 +1,8 @@
-# <p align="center">Abdusalomov Abduazimkhoja. [Linkedin](https://www.linkedin.com/in/abduazimkhoja-abdusalomov-a16484279/) [Telegram](https://t.me/Abdulazimkhoja)</p> 
+## Abdusalomov Abduazimkhoja. [Linkedin](https://www.linkedin.com/in/abduazimkhoja-abdusalomov-a16484279/) [Telegram](https://t.me/Abdulazimkhoja)
 
 ---
 
-# <p align="center">🔥 Languages-Frameworks-Tools 🔥</p>
+## Languages-Frameworks-Tools
 
 <br>
 <br>
@@ -14,7 +14,7 @@
 </div>
 
 ---
-## <p align="center"> Codewars: the last solved problem</p>
+##  Codewars: the last solved problem
 
 <!-- [![](https://www.codewars.com/users/Abduazimkhoja/badges/large)](https://www.codewars.com/users/Abduazimkhoja) -->
 
@@ -36,19 +36,19 @@ const snail = (array) => {
 
 ---
 
-# <p align="center">Projects</p>
+# Projects
 
-#### At the webbrain training center, we were developing a real project. To implement it, we used a local backend, which was launched using pgAdmin, Java and Swagger. At the moment, the project is under development and needs to be finalized.
-
-##### Project code: https://github.com/Abduazimkhoja/Houzing-full
+#### At the webbrain training center, we were developing a real project. To implement it, we used a local backend, which was launched using pgAdmin, Java and Swagger. At the moment, the project is under development and needs to be finalized. [Project code](https://github.com/Abduazimkhoja/Houzing-full)
 
 ---
 
-# <p align="center">Courses that he took</p>
+# Courses that he took
 
 #### Completed training in the field of frontend development at the training center "WebBrain". Previous experience includes self-completion of a free course from a blogger and freelancer on YouTube.
 
-# <p align="center">My stats</p>
+---
+
+# My stats
 <div>
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=abduazimkhoja&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
    <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=abduazimkhoja&show_icons=true&theme=gotham" width = "47%"/>
