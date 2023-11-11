@@ -1,0 +1,109 @@
+h1 {
+   text-align: center;
+   font-size: 40px;
+   line-height: 1.2;
+}
+
+a {
+   font-weight: 500;
+}
+a:hover {
+   color: #08278b;
+}
+
+pre {
+   background-color: #f4f4f4;
+   padding: 10px;
+   overflow: auto;
+	border-radius: 8px;
+}
+
+/* parents */
+
+.container {
+   max-width: 1180px;
+   width: 100%;
+   margin: 0 auto;
+}
+
+.header {
+   padding: 30px 0;
+   margin-top: 15px;
+
+   background: #d6dde6;
+}
+
+.main {
+   display: flex;
+   gap: 25px;
+   padding: 0 25px;
+}
+
+.skills,
+.education {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+.skills {
+   flex: 1;
+   padding: 30px 24px;
+   background: #e8eaed;
+}
+
+.education {
+   flex: 3;
+   padding: 30px 18px;
+}
+
+/* elements */
+
+.block {
+   margin-bottom: 20px;
+}
+
+.block__title {
+   padding: 18px 16px;
+
+   font-size: 16px;
+   font-weight: 400;
+   text-transform: uppercase;
+}
+
+.skills__list {
+}
+
+.skills__item {
+}
+
+.link {
+   display: flex;
+   align-items: center;
+   gap: 4px;
+   margin-bottom: 8px;
+}
+
+.link__icon {
+   width: 26px;
+   height: 26px;
+   transition: transform 0.3s ease;
+}
+
+.link:hover .link__icon {
+   transform: scale(1.1);
+}
+
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+	padding: 20px;
+
+   background: #d6dde6;
+}
+
+.footer__icon {
+	height: 50px;
+}
